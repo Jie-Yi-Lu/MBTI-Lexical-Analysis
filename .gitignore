@@ -14,9 +14,6 @@ venv/
 env/
 .env/
 
-# Pre-computed results (generate locally with analysis.py before deploying)
-results/*.pkl
-
 # Keep the results directory itself
 !results/.gitkeep
 
